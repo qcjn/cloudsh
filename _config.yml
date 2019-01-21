@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Your awesome title
+title: Red27 CloudSh Example
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
@@ -23,6 +23,8 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
+
+cloudsh_token: "eyJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoiMTAxNDA0ODktYmNmNS00ZWQ5LTgxZTctZjNlODk1OWE5MDQ0IiwiaW5kZXhfaWQiOiIyNTZjNjBmNi00YzY5LTRmZWUtOGEzYS03MzczNjRkODRlYWUiLCJpbmRleF91cmwiOiJodHRwczovL3JlZDI3Lm5ldCJ9.gbzh9Krtvijs_SBiI2iVTVP19q_JxcAZ5H3kDLFIb3M"
 
 # Build settings
 markdown: kramdown
