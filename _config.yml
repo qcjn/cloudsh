@@ -24,7 +24,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 
-cloudsh_token: "eyJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoiMTAxNDA0ODktYmNmNS00ZWQ5LTgxZTctZjNlODk1OWE5MDQ0IiwiaW5kZXhfaWQiOiIyNTZjNjBmNi00YzY5LTRmZWUtOGEzYS03MzczNjRkODRlYWUiLCJpbmRleF91cmwiOiJodHRwczovL3JlZDI3Lm5ldCJ9.gbzh9Krtvijs_SBiI2iVTVP19q_JxcAZ5H3kDLFIb3M"
+cloudsh_token: "TOKEN HERE"
 
 # Build settings
 markdown: kramdown
